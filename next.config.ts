@@ -4,6 +4,8 @@ const nextConfig: NextConfig = {
   // Configuração para GitHub Pages
   output: 'export',
   trailingSlash: true,
+  basePath: '/laboratoriouehara-site',
+  assetPrefix: '/laboratoriouehara-site',
   images: {
     unoptimized: true, // Necessário para export estático
   },
