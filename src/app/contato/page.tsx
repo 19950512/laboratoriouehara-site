@@ -237,7 +237,7 @@ export default function Contato() {
                 Passo Fundo - RS
               </p>
               <p className="text-sm text-gray-500 dark:text-gray-400 mt-2">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3514.2456822375384!2d-52.4193449!3d-28.260566299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e2c09c236282f1%3A0x5f74f9edd5a0ada9!2sLaborat%C3%B3rio%20Uehara!5e0!3m2!1spt-PT!2sbr!4v1758141160225!5m2!1spt-PT!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3514.2456822375384!2d-52.4193449!3d-28.260566299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e2c09c236282f1%3A0x5f74f9edd5a0ada9!2sLaborat%C3%B3rio%20Uehara!5e0!3m2!1spt-PT!2sbr!4v1758141160225!5m2!1spt-PT!2sbr" width="600" height="450" style={{border: '0'}} allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
               </p>
             </div>
           </div>
